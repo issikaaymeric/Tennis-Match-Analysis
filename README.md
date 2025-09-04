@@ -3,6 +3,17 @@
 This project implements an **object detection model** using [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) to detect tennis balls in images and videos. The model is trained on a dataset from [Roboflow](https://universe.roboflow.com/viren-dhanwani/tennis-ball-detection/dataset/6) and can be used for sports analysis, automation, or as a component in a larger tennis analytics system.
 
 ---
+## 📥 Download Models & Data
+
+Since models/datasets are too large for GitHub, download them here:
+
+👉 [Google Drive – Folder](https://drive.google.com/drive/folders/12ERk7C-zf0iu-aj9dUNO4ygYwGRM7QFW?usp=sharing)
+
+After downloading:
+
+* Extract into `backend/models/` or the appropriate folder.
+* Update paths in `main.py` if needed.
+---
 
 ## 📂 Project Structure
 
