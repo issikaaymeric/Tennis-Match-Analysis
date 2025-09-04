@@ -7,7 +7,7 @@ This project implements an **object detection model** using [Ultralytics YOLOv8]
 
 Since models/datasets are too large for GitHub, download them here:
 
-👉 [Google Drive – Folder](https://drive.google.com/drive/folders/12ERk7C-zf0iu-aj9dUNO4ygYwGRM7QFW?usp=sharing)
+👉 [Google Drive – Folder](https://drive.google.com/drive/folders/1DWnQYHOVqAFQ02NoZALCIQbvCd0nDWgl?usp=sharing)
 
 After downloading:
 
